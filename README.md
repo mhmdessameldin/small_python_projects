@@ -1,4 +1,4 @@
-# small_python_projects
+# Small Python Projects
 ## It is a small projects about what I am learning in Python Program
 ### 1- calculate_birth_year
 ### 2- Calculate_cost
