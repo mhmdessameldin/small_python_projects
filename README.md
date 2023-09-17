@@ -1,7 +1,7 @@
 # Small Python Projects
-## It is a small projects about what I am learning in Python Program
-### 1- calculate_birth_year
-### 2- Calculate_cost
+## It is small projects about what I am learning in Python Program
+### 1- calculate_birth_year 
+### 2- Calculate_cost 
 ### 3- head_tails
 ### 4- library_project
 ### 5- rabbit_move
